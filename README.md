@@ -7,7 +7,7 @@ git clone git@github.com:williamolojede/starter-kit.git "projectname"
 ``` bash
 rm -rf .git
 ```
-3. Initialize git for th new repo
+3. Initialize git for the new repo
 
 ```bash
 git init
