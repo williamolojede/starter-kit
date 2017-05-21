@@ -1,7 +1,7 @@
 # Quick-Start Guide
-A starter kit for vanilla js apps
+> A starter kit for vanilla js apps
 
-## Tools
+## Tools Used
  - [Eslint](http://eslint.org/) (with airbnb js style guide)
  - [Webpack](https://webpack.js.org/)
  - [Babel](https://babeljs.io/)
@@ -44,9 +44,9 @@ npm run dev
 npm run build
 ```
 
-## Contribution
-I'm open to contributions & suggestions in making this a lot better :hand:
+## How can I thank you?
+Share and star this repo also [follow me on twitter](https://twitter.com/williamolojede)!
+
 
 ## License
-
-MIT
+MIT © [William I. Olojede](http://william.ng)
