@@ -1,3 +1,11 @@
+# About
+A starter kit for vanilla js app
+
+# Tools
+1. [Eslint](http://eslint.org/) (with airbnb js style guide)
+2. [Webpack](https://webpack.js.org/)
+3. [Babel](https://babeljs.io/)
+
 # Instructions
 1. Clone the repo
 ``` bash
@@ -11,4 +19,12 @@ rm -rf .git
 
 ```bash
 git init
+```
+4. Install dev dependencies
+```bash
+npm install
+```
+5. Start the server
+```bash
+npm run dev
 ```
