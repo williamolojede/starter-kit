@@ -1,12 +1,17 @@
 # Quick-Start Guide
 A starter kit for vanilla js apps
 
-- [Installation](#installation) :package:
-- [Development Workflow](#development-workflow) :fire:
-- [Deployment](#deployment) :rocket:
+## Tools
+ - [Eslint](http://eslint.org/) (with airbnb js style guide)
+ - [Webpack](https://webpack.js.org/)
+ - [Babel](https://babeljs.io/)
+
+## Contents
+- [Installation](#installation)
+- [Development Workflow](#development-workflow)
 
 
-## Installation :package:
+## Installation
 
 **1. Clone this repo:**
 ```sh
@@ -27,7 +32,7 @@ npm install
 
 > You're done installing! Now let's get started developing.
 
-## Development Workflow :fire:
+## Development Workflow
 
 **4. Start a live-reload development server:**
 ```sh
