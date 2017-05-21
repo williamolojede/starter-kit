@@ -1,30 +1,47 @@
-# About
-A starter kit for vanilla js app
+# Quick-Start Guide
+A starter kit for vanilla js apps
 
-# Tools
-1. [Eslint](http://eslint.org/) (with airbnb js style guide)
-2. [Webpack](https://webpack.js.org/)
-3. [Babel](https://babeljs.io/)
+- [Installation](#installation) :package:
+- [Development Workflow](#development-workflow) :fire:
+- [Deployment](#deployment) :rocket:
 
-# Instructions
-1. Clone the repo
-``` bash
-git clone git@github.com:williamolojede/starter-kit.git "projectname"
-```
-2. Remove the git directory
-``` bash
-rm -rf .git
-```
-3. Initialize git for the new repo
 
-```bash
-git init
+## Installation :package:
+
+**1. Clone this repo:**
+```sh
+git clone git@github.com:williamolojede/starter-kit.git "projectName"
+cd "projectName"
 ```
-4. Install dev dependencies
-```bash
+
+**2. Make it yours:**
+``` sh
+rm -rf .git && git init
+```
+> :information_source: This re-initializes the repo and sets up your project.
+
+**3. Install the dependencies:**
+```sh
 npm install
 ```
-5. Start the server
-```bash
+
+> You're done installing! Now let's get started developing.
+
+## Development Workflow :fire:
+
+**4. Start a live-reload development server:**
+```sh
 npm run dev
 ```
+
+**5. Generate a production build:**
+```sh
+npm run build
+```
+
+## Contribution
+I'm open to contributions & suggestions in making this a lot better :hand:
+
+## License
+
+MIT
