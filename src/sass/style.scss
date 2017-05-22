@@ -1,6 +1,13 @@
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+  text-decoration: none;
+}
+
 body{
-  background-color: red;
-  p {
-    color: green;
-  }
+  margin: 0;
+  padding: 0;
 }
